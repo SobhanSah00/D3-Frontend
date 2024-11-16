@@ -2,7 +2,7 @@
 
 import React from 'react'
 import { Menu } from 'lucide-react'
-import UserMenu from '@/components/UserMenu'
+import UserMenu from '../components/UserMenu'
 
 export default function Header({ sidebarOpen, setSidebarOpen }) {
   return (
